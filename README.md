@@ -1,5 +1,5 @@
 
-# WELCOME TO MODOO AND MODOO DATA SCIENCE IMMERSIVE PROGRAM
+# MODOO AND DATA SCIENCE IMMERSIVE PROGRAM
 
 ## This is the master version of the welcome repo! Please make sure to look at your class's branch!
 
