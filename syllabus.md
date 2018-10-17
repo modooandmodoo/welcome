@@ -4,20 +4,19 @@ Data Science Immersive Program Syllabus
 Logistics:
 ---
 __Instructors:__
-- [Isaac Laughlin](mailto:isaac.laughlin@galvanize.com )
-- [Clayton Schupp](mailto:clayton.schupp@galvanize.com )
-- [Brad Jacobs](mailto:brad.jacobs@galvanize.com )
+- [Alex Seong](mailto:alex.y.seong@gmail.com )
+- [Ken Park](mailto:alex.y.seong@gmail.com )
+- [Brad Jacobs](mailto:alex.y.seong@gmail.com )
 
 __Data-Scientist-in-Residence:__
-- [Susan Eraly](mailto:susan.eraly@galvanize.com)
-- [Tom Koskores](mailto:thomas.koskores@galvanize.com )
-- [Brent D'Adamo](mailto:brent.dadamo@galvanize.com )
+- [Nicholas Sung](mailto:alex.y.seong@gmail.com)
+- [Brent D'Adamo](mailto:alex.y.seong@gmail.com )
 
 __Course Producer:__
 
-- [Pira Tritasavit](mailto:pira.tritasavit@galvanize.com)  
+- [Alex Seong](mailto:alex.y.seong@gmail.com)  
 
-__Class Location:__ 44 Tehama St, San Francisco, CA  <br>
+__Class Location:__ 4921 Dogwood St., Flower Mound, TX 75028  <br>
 __Class Hours:__ 9:30-6:30pm <br>
 __Office Hours:__   youcanbook.me
 
