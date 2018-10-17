@@ -1,3 +1,6 @@
+
+### WELCOME TO MODOO AND MODOO DATA SCIENCE IMMERSIVE PROGRAM
+
 ## This is the master version of the welcome repo! Please make sure to look at your class's branch!
 
 There will be some variations in the schedule due to holidays. Your schedule will also say who is teaching each day!
@@ -44,7 +47,6 @@ This document covers much of what we'll teach you, but you are each other's grea
 | 9 |  | [Project](#week-9-project) |
 | 10 |  | [Project](#week-10-more-project) |
 | 11 |  | [Project](#week-11-even-more-project) |
-| 12 |  | [Interview Prep](#week-12-interview-prep) |
 
 --
 
@@ -161,17 +163,6 @@ This document covers much of what we'll teach you, but you are each other's grea
 | Wednesday | Morning: Presentation Dry Run<br/>Afternoon: Company Overview, Interview Practice | [project-proposals][proj] |
 | Thursday | Hiring Day | [project-proposals][proj] |
 | Friday | *Day Off: Recover* |  |
-
---
-
-### Week 12: Interview Prep
-| Day | Activities | Repo | Lead Instructor |
-|:--:|:--|:--:|:--:|
-| Monday | Morning: Review<br/>Afternoon: Whiteboarding Practice | [interview-prep][137.2] |  |
-| Tuesday | Morning: Review<br/>Afternoon: Algorithms | [interview-prep][137.2] |  |
-| Wednesday | Business Analytics<br />Model Comparison | [interview-prep][137.2] |  |
-| Thursday | 120 Interview Questions<br/>Job Application Prep | [interview-prep][137.2] |  |
-| Friday |  Mock Interviews<br/>Salary Negotiation Workshop<br/>GRADUATION!! (in the evening) | [interview-prep][137.2] |  |
 
 --
 
