@@ -124,7 +124,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 | Monday |  <ul><li>[Multiprocessing in Python][multiproc-python]</li><li>[Intro to Parallel Processes][parallel-intro]</li><li>[Intro to Threading][threading]</li></ul> | [AWS and Parallelization][hp-python] |  | [slides][122.2] |
 | Tuesday | <ul><li>[Python Functional Programming Generators][generators]</li><li>[Python Functional Programming built-in functions][funcprog]</li><li>[Mining Massive Datasets ch 2][mmd2] (ch 2-2.3 pg 21-41)</li><li>Optional: [Data-Intensive Text Processing with MapReduce][mrbook] (ch 1-3 pg 1-69)</li></ul> | [Map Reduce][129] |  | [slides][122.3] |
 | Wednesday | <ul><li>[Learning Spark][LearningSpark] (ch 1-2, pg 1-22)</li><li>Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)</li></ul>| [Spark][spark] |  | [slides][122.4] |
-| Thursday | <ul><li>[Spark on AWS][131.8]</li><li>[Learning Spark][LearningSpark] (pg 135-139)</li><ul>| [SparkSQL and Spark on AWS][spark-aws] |  | [slides][122.5] |
+| Thursday | <ul><li>[Spark on AWS][131.8]</li><li>[Learning Spark][LearningSpark] (pg 135-139)</li></ul>| [SparkSQL and Spark on AWS][spark-aws] |  | [slides][122.5] |
 | Friday | <ul><li>[Social Network Analysis][sna] (ch 2 pg 19-38)</li><li>[Mining Massive Datasets][mmd10] (10.1-10.2 pg 343-356)</li></ul> | [Graph Theory][graphs] |  | [slides][122] |
 
 --
